@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+        <item>JavaScript</item>
+        <item>Python;</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>TypeScript;</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>Objective-C</item>
+        <item>Scala</item>
+        <item>Shell</item>
+        <item>Go</item>
+        <item>PowerShell</item>
+        <item>Kotlin</item>
+        <item>Rust</item>
+        <item>Dart</item>
+
+    </string-array>
+
+</resources>
